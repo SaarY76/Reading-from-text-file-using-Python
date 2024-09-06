@@ -1,0 +1,19 @@
+At : 2023-06-15 13:32:43.967757, Invalid line: 12345678 , Ball , 50 40, you need to have exactly 4 parameters
+At : 2023-06-15 13:33:22.655342, Invalid line: 12345678 , Ball , 50 , 40, The product month sales needs to be an int
+At : 2023-06-18 21:03:15.291032, Invalid line: 12345678 , Ball , 50 , 40, The product month sales needs to be an int
+At : 2023-06-18 21:03:42.776639, Invalid line: 12345678 , Ball , 50 , 40, The product month sales needs to be an int
+At : 2023-06-18 21:04:09.668331, Invalid line: 12345678 , Ball , 50 , 40, The product month sales needs to be an int
+At : 2023-06-18 21:04:12.296472, Invalid line: 12345678 , Ball , 50 , 40, The product month sales needs to be an int
+At : 2023-06-18 21:04:23.039020, Invalid line: 12345678 , Ball , 50 , 40, The product month sales needs to be an int
+At : 2023-06-18 21:04:57.140649, Invalid line: 12345678 , Ball , 50 , 40, The product month sales needs to be an int
+At : 2023-06-18 21:05:20.718326, Invalid line: 12345678 , Ball , 5 , 40, The product month sales needs to be an int
+At : 2023-06-18 21:05:47.548588, Invalid line: 12364589 , Speakers , 0 , -1200, The product price needs to be positive
+At : 2023-06-18 21:05:58.990555, Invalid line: 1236458 , Speakers , 0 , 1200, Product code length needs to be 8 characters
+At : 2024-09-06 18:41:14.210401, Invalid line: 12364589 , Speakers , a , 1200, invalid literal for int() with base 10: 'a'
+At : 2024-09-06 18:41:57.044618, Invalid line: 12364589 , Speakers , 20 , a, could not convert string to float: 'a'
+At : 2024-09-06 18:54:18.697371, Invalid line: 12364589 , 1222a , a , 1200, invalid literal for int() with base 10: 'a'
+At : 2024-09-06 18:54:55.521429, Invalid line: 12364589 Speakers , 20 , 1200, you need to have exactly 4 parameters
+At : 2024-09-06 18:55:03.016792, Invalid line: 12364589 ,Speakers , 20 , 1200, you need to have exactly 4 parameters
+At : 2024-09-06 19:00:59.564275, Invalid line: 12364589 , 1232 , 20 , 1200, Product name should contain at least one alphabetical character
+At : 2024-09-06 19:01:14.303190, Invalid line: aaaaaaaa , Speakers , 20 , 1200, Product code contains not digits characters
+At : 2024-09-06 19:01:26.619688, Invalid line: 12364589 , Speakers , 20 , a, could not convert string to float: 'a'
